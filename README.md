@@ -9,4 +9,4 @@
 [相关教程][1]
 
 
-  [1]: https://taterli.com/ "相关教程"
+  [1]: https://www.taterli.com/ "相关教程"
