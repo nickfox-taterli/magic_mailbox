@@ -17,11 +17,11 @@ TESTMAIL_SURFIX = '*****'
 # testmail.app 单次查询上限(只能大于0,太大会影速度,建议默认.)
 TESTMAIL_LIMIT = 3
 # SendGrid 已验证发送者邮箱
-SENDGRID_MAIL_SENDER_ACCOUNT = '***********@stumail.sdut.edu.cn'
+SENDGRID_MAIL_SENDER_ACCOUNT = '***********@stumail.xxx.edu.cn'
 # SendGrid 密钥
-SENDGRID_APP_KEY = 'Bearer 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'
+SENDGRID_APP_KEY = 'Bearer SG.xxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxx'
 # 邮件接收者邮箱(建议和发送者一样)
-SENDGRID_MAIL_POST_ACCOUNT = '***********@stumail.sdut.edu.cn'
+SENDGRID_MAIL_POST_ACCOUNT = '***********@stumail.xxx.edu.cn'
 
 # 参数设置(结束)
 
